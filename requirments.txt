@@ -1,0 +1,4 @@
+numpy
+pytelegrambotapi
+matplotlib
+schedule
